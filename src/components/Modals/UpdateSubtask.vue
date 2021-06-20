@@ -120,7 +120,7 @@
         </div>
         <div class="col-md-4">
           <button class="btn btn-danger btn-block" @click="delSubtask()">
-            Удалить подзадачу
+            Удалить
           </button>
         </div>
       </div>

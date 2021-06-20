@@ -102,7 +102,7 @@
         </div>
         <div class="col-md-4">
           <button class="btn btn-danger btn-block" @click="delTask()">
-            Удалить задачу
+            Удалить
           </button>
         </div>
       </div>
